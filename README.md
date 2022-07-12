@@ -50,3 +50,4 @@ The timeframe of the dataset used for the analysis.
     export b
     a = b =c
     print ab 
+    ab
