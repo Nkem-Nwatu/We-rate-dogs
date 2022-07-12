@@ -46,8 +46,4 @@ My Analysis answered the following questions
 - 6: Top five breeds of dogs discovered by the algorithm.
 The timeframe of the dataset used for the analysis.
 
-``` import a
-    export b
-    a = b =c
-    print ab 
-    ab
+
